@@ -1,0 +1,10 @@
+fastapi
+tensorflow
+beautifulsoup4
+spacy
+unidecode
+word2number
+contractions
+
+
+python -m spacy download en_core_web_md
